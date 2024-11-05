@@ -32,4 +32,28 @@ Les fichiers sont revenus dans leur état lors du commit initial. Puis lorsque l
 
 ### Task 7
 
+1 : Nom de la branche
+
+2 : Identifiant du commit (bash)
+
+3 : Description du merge (fusion des branches)
+
+4: Nom de l'auteur et pseudo
+
+5: Tag indiquant la version actuelle du main
+
+6: Merge de feature-auth dans develop
+
+7: Chechout de feature-auth depuis main
+
+8: Merge de develop dans main
+
+9: Checkout de develop depuis main
+
+10: Initial commit (commit initial)
+
+
+
+
+
 ![Gitgraph](img/gitgraph.svg)
