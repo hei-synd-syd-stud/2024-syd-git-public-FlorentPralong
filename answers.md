@@ -26,6 +26,8 @@ La première chaîne de caractères correspond à l'identifiant du commit. Ce qu
 
 ### Task 6
 
+Les fichiers sont revenus dans leur état lors du commit initial. Puis lorsque la commande "git checkout main" a été effectuée, l'état au dernier commit a été retrouvé.
+
 ## Gitgraph
 
 ### Task 7
